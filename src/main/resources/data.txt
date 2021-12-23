@@ -1,0 +1,3 @@
+INSERT INTO CAR (make, model, colour, year) VALUES
+  ('Audi', 'A3', 'black', '2020'),
+  ('Acura', 'MDX', 'blue', '2021');
